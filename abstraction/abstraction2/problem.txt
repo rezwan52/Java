@@ -1,0 +1,1 @@
+Write an inheritance hierarchy for classes Rectangle, Circle, Triangle. Create an abstract class named Shape as super-class of the hierarchy. Write an application that instantiates object of your classes and output of their areas.
